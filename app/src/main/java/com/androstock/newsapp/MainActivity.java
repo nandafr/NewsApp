@@ -20,7 +20,7 @@ import java.util.HashMap;
 public class MainActivity extends AppCompatActivity {
 
     String API_KEY = "2e8cd8b22f3f4998bad16a35e2720a92"; // ### CHANGE WITH YOUR NEWS API from newsapi.org ###
-    String NEWS_SOURCE = "cnn"; // // ### CHANGE WITH YOUR NEWS SOURCES see newsapi.org ###
+    String NEWS_SOURCE = "bbc"; // // ### CHANGE WITH YOUR NEWS SOURCES see newsapi.org ###
     ListView listNews;
     ProgressBar loader;
 
